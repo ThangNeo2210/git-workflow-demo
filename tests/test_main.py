@@ -1,4 +1,4 @@
-from git_workflows.main import hello, add, multiply
+from git_workflows.main import add, hello, multiply
 
 
 def test_hello():
